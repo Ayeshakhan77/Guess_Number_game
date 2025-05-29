@@ -11,5 +11,5 @@ A simple command-line guessing game built in Java where the user tries to guess 
 ## 💻 How to Run
 Compile and run using:
 
-javac GuessNumber.java
+javac GuessNumber.java <br>
 java GuessNumber
